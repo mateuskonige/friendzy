@@ -1,4 +1,4 @@
-# friendzy-front
+# client
 
 ## Build Setup
 
